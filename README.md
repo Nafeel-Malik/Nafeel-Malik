@@ -11,7 +11,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOZm0VGYKgM/giphy.gif" width="40"> About Me
 
 ```yaml
 name: Software Engineering Student
