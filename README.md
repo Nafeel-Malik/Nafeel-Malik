@@ -95,8 +95,4 @@ hobbies: ["Coding", "Learning New Tech", "Building Projects"]
 ### 💡 Fun Fact
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=The+best+code+is+no+code+at+all.;Debugging+is+twice+as+hard+as+writing+the+code.;First,+solve+the+problem.+Then,+write+the+code." alt="Fun Facts" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" alt="Footer"/>
-
 </div>
