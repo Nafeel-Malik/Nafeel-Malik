@@ -26,7 +26,7 @@ from Pakistan
 
 ---
 
-## ☿ Core Languages
+## Core Languages
 
 *Closest to the core. Fast. Foundational.*
 
@@ -42,7 +42,7 @@ from Pakistan
 
 ---
 
-## ♀ Web Development
+## Web Development
 
 *Bright, visible, atmosphere-heavy — where the interfaces live.*
 
@@ -61,7 +61,7 @@ from Pakistan
 
 ---
 
-## 🌍 Tools & Platforms
+## Tools & Platforms
 
 *Home base. Where everything gets built, versioned, and shipped.*
 
@@ -80,7 +80,7 @@ from Pakistan
 
 ---
 
-## 🔴 Currently Exploring
+## Currently Exploring
 
 *The frontier. New terrain, still mapping it out.*
 
@@ -97,7 +97,7 @@ from Pakistan
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nafeel-Malik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
@@ -110,7 +110,7 @@ from Pakistan
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
